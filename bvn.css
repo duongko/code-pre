@@ -1,0 +1,115 @@
+#modau{
+    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTptDddyBZG4i4cycd6ZIBP2wT8PQKhihUqenZF7GpzlvTZuPghGQ);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.modau{
+    color: #eff3f8;
+    list-style-type: none;
+    float: right;
+    width:300px;
+    position: relative;
+    top:30px;
+    right: -30px;
+    font-size:20px;
+}
+.anhdaidien{
+    width: 125px;
+    height: 125px;
+    position: relative;
+    top: -480px;
+    right: -500px;
+    
+}
+#ten{
+    position: relative;
+    top: -430px;
+    right: -472px;
+    color: #eff3f8;
+     
+    font-size: 35px;
+}
+#facebook{
+    width: 55px;
+    height:50px;
+    position: relative;
+    top:-450px;
+    right:-590px;
+    border: 5px outset #212222;
+}
+.about{
+  background:#f3f4f4;
+  width: 1000px;
+  height: 250px;
+  position:relative;
+  right:-170px;
+  top: -200px;
+  border-radius:10px;
+  box-shadow: 6px 5px 50px #ccc;
+}
+.about1{
+  margin: 20px;
+  width:400px;
+  position: relative;
+  top: 20px;
+    
+}
+.about2{
+  width:500px;
+  float:right;
+  position:relative;
+  top:-170px;
+  right: -100px
+}
+.font{
+    font-size: 30px;
+}
+#skill{
+  font-size: 30px;
+  position: relative;
+  top: -48px;
+  right: -550px
+}
+.skill{
+   background:#f3f4f4;
+  width: 1000px;
+  height: 250px;
+  position:relative;
+  right:-170px;
+  top: -20px;
+  border-radius:10px;
+  box-shadow: 4px 5px 50px 
+}
+.skill1  {
+  font-size:20px;
+  color: green;  
+  position:relative;
+  top:30px
+  
+}
+#skill1{
+  position:relative;
+  top:-20px;
+  right: -570px;
+}
+.phantram{
+  width:380px;
+  height: 8px;
+  background:#ceedc0;
+  position: relative;
+  border-radius:10px;
+  border: solid 0.5px #baf99d ;
+}
+.phantram1{
+  background:green;
+}
+.phantram3{
+   width:380px;
+  height: 8px;
+  background:#ceedc0;
+  position: relative;
+  right:-595px;
+  border-radius:10px;
+  border: solid 0.5px #baf99d ;
+}
